@@ -1,0 +1,7 @@
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/edit_cache.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/greeter_async_server.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/greeter_async_client.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/greeter_client.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/greeter_server.dir
+/home/sa/GrpcTest/Grpc_v1.34.0/examples/cpp/helloworld/cmake/build/CMakeFiles/greeter_async_client2.dir
